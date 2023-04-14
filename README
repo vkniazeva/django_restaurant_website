@@ -1,1 +1,12 @@
-Read me
+Dear visitor,
+
+thanks for visiting my Github pages.
+Here is my first try to build up a restaurant website using Django framework.
+I know that it might look a bit simple, but behind Python language with Django framework is used. 
+As DB I decided to leave SQLite because of simplicity usage and no need for scalability, but for my next try seems to be MySQL might be good choise.
+In case if you have found some mistakes or you have some suggestions, how to improve the application, please, let me know.
+
+Many thanks and good luck!
+
+Best regadrs
+Viktoriia
