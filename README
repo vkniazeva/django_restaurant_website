@@ -4,6 +4,15 @@ thanks for visiting my Github pages.
 Here is my first try to build up a restaurant website using Django framework.
 I know that it might look a bit simple, but behind Python language with Django framework is used. 
 As DB I decided to leave SQLite because of simplicity usage and no need for scalability, but for my next try seems to be MySQL might be good choise.
+
+To build the application locally you will need to set up a virtual environment and run the server locally.
+Here are some instructions, how to do it.
+
+0. Ensure you have python3 installed on your local mashine: $python3 --version
+1. Install virtual environment: $pip3 install virtualenv (make sure, you are doing it from the project location folder)
+2. Install Django: $pip3 install Django
+3. Run server: $python3 manage.py runserver
+
 In case if you have found some mistakes or you have some suggestions, how to improve the application, please, let me know.
 
 Many thanks and good luck!
